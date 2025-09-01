@@ -1,5 +1,6 @@
 ## Hi there 👋
 👯 I’m looking to collaborate on ...
+🔭 I’m currently working on kotlin/android
 - 📫 How to reach me: tg.me @fhntva
 <!--
 **VladWhite22/VladWhite22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
